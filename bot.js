@@ -4,7 +4,7 @@ const FUNC = require("./resources/functions.js");
 const CONFIG = require('./resources/config.json');
 const Discord = require('discord.js');
 global.client = new Discord.Client();
-
+// console.log('hello')
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Custom Commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
