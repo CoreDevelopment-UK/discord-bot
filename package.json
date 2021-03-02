@@ -1,0 +1,23 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "0.5.8",
+  "description": "CoreDevelopment Discord Server Bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "jsdom": "^16.4.0",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5",
+    "sleep": "^6.3.0"
+  },
+  "devDependencies": {}
+}
