@@ -1,25 +1,25 @@
 {
     "ROLES": {
-        "MOD": ["784745373464789002", "784746405050187776"],
-        "MUTED": ["784756450232238121"],
-        "CLIENT": ["784745332956987402"],
-        "BLACKLIST": ["813548572398190593"]
+        "MOD": [""],
+        "MUTED": [""],
+        "CLIENT": [""],
+        "BLACKLIST": [""]
     },
 
     "UI": {
-        "LOGO": "https://c0r3.uk/assets/img/logo/CoreDevelopment.png",
-        "COL_PRIMARY": "#000134"
+        "LOGO": "",
+        "COL_PRIMARY": ""
     },
 
     "CHANNELS": {
-        "LOG": "784762688499744799",
-        "TRANSCRIPT": "784762485668184074",
-        "RELEASES": "784745874361286667",
-        "TICKETCATEGORY": "813013897514057750"
+        "LOG": "",
+        "TRANSCRIPT": "",
+        "RELEASES": "",
+        "TICKETCATEGORY": ""
     },
 
     "PREFERENCES": {
-        "WEB_URL": "https://c0r3.uk",
-        "PREFIX": "/"
+        "WEB_URL": "",
+        "PREFIX": "-"
     }
 }
