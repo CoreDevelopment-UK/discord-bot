@@ -1,7 +1,7 @@
 # discord-bot
 A discord bot that was created for my discord server.
 
-# what is does
+# what it does
 Primarily made for a ticket system, included transcribing, logging, staff commands for creating and closing tickets. You can view other commands in the commands folder.
 
 # dependencies
