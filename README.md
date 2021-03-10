@@ -1,15 +1,18 @@
-# discord-bot
+## Introduction
 A discord bot that was created for my discord server.
 
-# what it does
-Primarily made for a ticket system, included transcribing, logging, staff commands for creating and closing tickets. You can view other commands in the commands folder.
+## Features
+- Ticket Creation
+- Ticket Logging
+- Ticket Transcript
+- Staff Commands
+- Database Hookup using mySQL
 
-# dependencies
-    "config.json": "0.0.4",
-    "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
-    "jsdom": "^16.4.0",
-    "mysql2": "^2.2.5",
-    "nodemon": "^2.0.6",
-    "sequelize": "^6.3.5",
-    "sleep": "^6.3.0"
+## Dependencies
+- Config.json
+- DiscordJS
+- Dotenv
+- Jsdom
+- mySQL12
+- Sequelize
+- Sleep
