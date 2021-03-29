@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 A discord bot that was created for my discord server.
 
 ## Features
@@ -16,3 +16,6 @@ A discord bot that was created for my discord server.
 - mySQL12
 - Sequelize
 - Sleep
+
+# Archived Project
+Support will not be provided, if you wish to get your own custom bot you may contact me on Discord (you can get my tag from my (website)[https://c0r3.uk]
